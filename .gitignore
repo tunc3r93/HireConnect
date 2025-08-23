@@ -1,0 +1,25 @@
+# Build-Ordner ignorieren
+bin/
+obj/
+
+# Visual Studio und VS Code
+.vscode/
+*.user
+*.suo
+*.log
+*.vs/
+
+# Rider IDE
+.idea/
+
+# OS-Dateien
+.DS_Store
+
+# ASP.NET Core sensitive config
+appsettings.*.json
+
+# NPM (falls du mal JS nutzt)
+node_modules/
+
+# Datenbank- / EF Core Migrations (optional, wenn du sie versionieren möchtest, kannst du das anpassen)
+Migrations/
