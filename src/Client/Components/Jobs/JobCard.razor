@@ -1,0 +1,16 @@
+@code {
+    [Parameter]
+    public string Title { get; set; } = "";
+
+    [Parameter]
+    public string Company { get; set; } = "";
+
+    [Parameter]
+    public string Location { get; set; } = "";
+}
+
+<div class="job-card" style="border: 1px solid gray; padding: 10px; margin: 5px; border-radius: 5px;">
+    <h3>@Title</h3>
+    <p><strong>Firma:</strong> @Company</p>
+    <p><strong>Ort:</strong> @Location</p>
+</div>
