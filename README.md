@@ -16,4 +16,4 @@ HireConnect ist ein webbasiertes Bewerber- und Job-Managementsystem, entwickelt 
 
 ## Autor
 
-Tuncer Arici - [LinkedIn](linkedin.com/in/tuncer-arici-7b7146263)
+Tuncer Arici - [LinkedIn](https://www.linkedin.com/in/tuncer-arici-7b7146263/)
