@@ -1,0 +1,43 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider IDE files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# Dotnet files
+*.dbmdl
+
+# Entity Framework Core migrations (optional, je nach Team-Workflow)
+# Migrations/ 
+
+# User secrets (für sensible Daten)
+secrets.json
+
+# Logs
+*.log
+
+# Publish folder (wenn du lokal publishst)
+publish/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Runtime files
+*.pidb
+*.svclog
+*.vspscc
+
+# Others
+*.DS_Store
